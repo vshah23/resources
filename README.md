@@ -99,3 +99,27 @@
 [Swift blog](https://developer.apple.com/swift/blog/)
 
 [iOS Dev Weekly](http://iosdevweekly.com/)
+
+[subjc](http://subjc.com/)
+
+[Peter Steinberger Blog](http://petersteinberger.com/)
+
+[Ole Begemann](https://oleb.net/)
+
+[Florian Kugler](http://floriankugler.com/)
+
+[Cocoa Tumblr](https://cocoa.tumblr.com/)
+
+[Atomic Bird House Blog](http://www.atomicbird.com/)
+
+[iOS Developer Sites](https://ios.james.ooo/11-insanely-great-ios-developers-sites-95686a523ea8#.fvbi5qtgx)
+
+[NSObject](http://img.my.csdn.net/uploads/201210/18/1350528267_1570.jpg)
+
+[xCode Layout](https://s3.amazonaws.com/udacity-hosted-downloads/ud585/docs/Xcode+Buttons+and+Their+Meaning.pdf)
+
+[objc Swift](https://www.objc.io/issues/16-swift/)
+
+[We Hear Swift](http://www.weheartswift.com/)
+
+[Learning Swift](http://swift.staticred.com/)
