@@ -1,6 +1,11 @@
 # Generic
 
-## Android
+###Tools
+[iTerm2](https://www.iterm2.com/)
+
+###Resources
+
+# Android
 ###Tools
 [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/)
 
@@ -16,6 +21,8 @@
 []()
 
 ###Resources
+[Android Weekly](http://androidweekly.net/)
+
 [Android Hive](http://www.androidhive.info/)
 
 [Android Dev Resources](http://www.androiddevresources.com/)
@@ -34,4 +41,4 @@
 
 []()
 
-## iOS
+# iOS
