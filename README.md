@@ -1,12 +1,12 @@
-# Generic
+# Various
 
-###Tools
+##Tools
 [iTerm2](https://www.iterm2.com/)
 
-###Resources
+##Resources
 
 # Android
-###Tools
+##Tools
 [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/)
 
 [Android Tools/Libs/Frameworks](http://snowdream.github.io/awesome-android/)
@@ -20,7 +20,7 @@
 [Robolectric](http://robolectric.org/configuring/)
 []()
 
-###Resources
+##Resources
 [Android Weekly](http://androidweekly.net/)
 
 [Android Hive](http://www.androidhive.info/)
@@ -35,10 +35,10 @@
 
 [Android Best Practices](https://github.com/futurice/android-best-practices)
 
+[Android Developer Resources Must Know](http://www.bongizmo.com/blog/android-resources-each-developer-should-know/)
 
-###Articles
 
-
-[]()
 
 # iOS
+##Tools
+##Resources
