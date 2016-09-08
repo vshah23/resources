@@ -3,6 +3,8 @@
 ##Tools
 [iTerm2](https://www.iterm2.com/)
 
+[Atom Editor](https://atom.io/)
+
 ##Resources
 
 # Android
@@ -37,8 +39,33 @@
 
 [Android Developer Resources Must Know](http://www.bongizmo.com/blog/android-resources-each-developer-should-know/)
 
+[Using Google Volley](http://arnab.ch/blog/2013/08/asynchronous-http-requests-in-android-using-volley/)
 
+##Libs
+[Picasso: Image](https://futurestud.io/tutorials/picasso-getting-started-simple-loading)
 
-# iOS
+[Glide: Image](https://futurestud.io/tutorials/glide-getting-started)
+
+[Retrofit: Networking](http://square.github.io/retrofit/)
+
+[Google Volley: Networking](https://developer.android.com/training/volley/index.html)
+
+[Butterknife](http://jakewharton.github.io/butterknife/)
+
+[Dagger](http://square.github.io/dagger/)
+
+[Graphs/Charts](https://github.com/PhilJay/MPAndroidChart)
+
+[Tooltip](https://github.com/sephiroth74/android-target-tooltip)
+
+[Firebase/GCM](https://firebase.google.com/)
+
+[Localytics](https://www.localytics.com/)
+
+#iOS
+
 ##Tools
+
+
 ##Resources
+[Material Design Blog](http://materialdesignblog.com/)
