@@ -62,10 +62,34 @@
 
 [Localytics](https://www.localytics.com/)
 
+[Material Design Blog](http://materialdesignblog.com/)
+
 #iOS
 
 ##Tools
-
+[Essential Tools for iOS Devs](http://benscheirman.com/2013/08/the-ios-developers-toolbelt/)
 
 ##Resources
-[Material Design Blog](http://materialdesignblog.com/)
+[iOS libraries](http://appfoundry.be/blog/2014/07/29/Objective-C-Top-Libraries/)
+
+[iOS Developer Tool Belt](http://stuartkhall.com/posts/ios-developer-tool-belt-essential-services-and-libraries)
+
+[Cocoa is My Girlfriend](http://www.cimgf.com/)
+
+[App Design Vault](http://www.appdesignvault.com/)
+
+[App Dev Start](http://www.appdesignvault.com/start-advice/)
+
+[Lightweight iOS VC](https://yalantis.com/blog/lightweight-ios-view-controllers-separate-data-sources-guided-mvc/)
+
+[Ultimate List Of iOS Developer Resources](http://blog.udacity.com/2015/02/ultimate-list-ios-developer-resources-follow.html)
+
+[objc](https://www.objc.io/)
+
+[iOS Goodies](http://ios-goodies.com/)
+
+[WWDC Videos](https://developer.apple.com/videos/)
+
+[NSHipster](http://nshipster.com/)
+
+[RayWenderlich](https://www.raywenderlich.com/)
