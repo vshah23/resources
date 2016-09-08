@@ -1,7 +1,7 @@
 # Various
 
 ##Tools
-[iTerm2](https://www.iterm2.com/)
+[iTerm2](https://www.iterm2.com/)<br/>
 [Atom Editor](https://atom.io/)
 
 ##Resources
