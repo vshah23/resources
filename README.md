@@ -123,3 +123,15 @@
 [We Hear Swift](http://www.weheartswift.com/)
 
 [Learning Swift](http://swift.staticred.com/)
+
+# Elixir
+##Resources
+[Excasts](https://excasts.com/)
+
+[Elixir Github](https://github.com/elixir-lang/elixir/wiki/Podcasts-and-Screencasts)
+
+[Elixir Reddit](https://www.reddit.com/r/elixir/)
+
+[Elixir Quick Reference](https://github.com/itsgreggreg/elixir_quick_reference/blob/master/README.md)
+
+[Elixir Books](http://chrismcg.com/2015/09/24/which-elixir-books-should-i-read/)
