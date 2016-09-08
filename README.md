@@ -93,3 +93,9 @@
 [NSHipster](http://nshipster.com/)
 
 [RayWenderlich](https://www.raywenderlich.com/)
+
+[Reddit /iosprogramming](https://www.reddit.com/r/iosprogramming)
+
+[Swift blog](https://developer.apple.com/swift/blog/)
+
+[iOS Dev Weekly](http://iosdevweekly.com/)
