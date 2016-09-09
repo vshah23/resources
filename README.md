@@ -27,6 +27,10 @@
 
 [Caster](https://caster.io/)
 
+[Fragmented Podcast](http://fragmentedpodcast.com/)
+
+[Android Developer Backstage](http://androidbackstage.blogspot.com/)
+
 [Android Hive](http://www.androidhive.info/)
 
 [Android Dev Resources](http://www.androiddevresources.com/)
