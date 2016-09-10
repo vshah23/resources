@@ -20,7 +20,8 @@
 [Material UI Palette](https://www.materialpalette.com/)
 
 [Robolectric](http://robolectric.org/configuring/)
-[]()
+
+[Circle CI](https://circleci.com/)
 
 ##Resources
 [Android Weekly](http://androidweekly.net/)
@@ -69,6 +70,8 @@
 [Localytics](https://www.localytics.com/)
 
 [Material Design Blog](http://materialdesignblog.com/)
+
+[Espresso Cheat Sheet](https://google.github.io/android-testing-support-library/docs/espresso/cheatsheet/)
 
 #iOS
 
