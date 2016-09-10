@@ -23,6 +23,8 @@
 
 [Circle CI](https://circleci.com/)
 
+[Stetho ADB w/ Chrome Dev Tools](http://facebook.github.io/stetho/)
+
 ##Resources
 [Android Weekly](http://androidweekly.net/)
 
