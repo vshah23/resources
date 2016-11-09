@@ -28,7 +28,9 @@
 ##Resources
 [Android Weekly](http://androidweekly.net/)
 
-[Caster](https://caster.io/)
+[Android Dev Digest](https://www.androiddevdigest.com/)
+
+[CasterIO](https://caster.io/)
 
 [Fragmented Podcast](http://fragmentedpodcast.com/)
 
@@ -61,7 +63,7 @@
 
 [Butterknife](http://jakewharton.github.io/butterknife/)
 
-[Dagger](http://square.github.io/dagger/)
+[Dagger 2](https://google.github.io/dagger/)
 
 [Graphs/Charts](https://github.com/PhilJay/MPAndroidChart)
 
