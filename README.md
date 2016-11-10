@@ -53,6 +53,8 @@
 [Using Google Volley](http://arnab.ch/blog/2013/08/asynchronous-http-requests-in-android-using-volley/)
 
 ##Libs
+[Square Libraries](http://square.github.io/)
+
 [Picasso: Image](https://futurestud.io/tutorials/picasso-getting-started-simple-loading)
 
 [Glide: Image](https://futurestud.io/tutorials/glide-getting-started)
@@ -76,6 +78,8 @@
 [Material Design Blog](http://materialdesignblog.com/)
 
 [Espresso Cheat Sheet](https://google.github.io/android-testing-support-library/docs/espresso/cheatsheet/)
+
+[Memory Leaks Tool](https://github.com/square/leakcanary)
 
 #iOS
 
