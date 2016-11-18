@@ -51,6 +51,14 @@
 
 [Paul Graham](http://www.paulgraham.com/index.html)
 
+[Coding Horror - Jeff Atwood](https://blog.codinghorror.com/)
+
+[Designated Nerd - Ellen Shapiro](http://designatednerd.com/blog/)
+
+[Scott Hanselman](http://www.hanselman.com/)
+
+[Joes on Software](http://www.joelonsoftware.com/)
+
 ### Architecture/Design
 [OO Design Patterns](http://www.oodesign.com/)
 
