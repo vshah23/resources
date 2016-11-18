@@ -43,6 +43,12 @@
 
 [Topcoder](https://www.topcoder.com/)
 
+[Hacker Rank](https://www.hackerrank.com/challenges)
+
+[Leet Code](https://leetcode.com/problemset/algorithms/)
+
+[Exercises for Programmers - Book](https://pragprog.com/book/bhwb/exercises-for-programmers)
+
 ### Web API
 [Programmable Web](http://www.programmableweb.com/)
 
