@@ -38,8 +38,10 @@
 ### Web API
 [Programmable Web](http://www.programmableweb.com/)
 
-### Software Dev Blogs
+### Blogs
 [40 Blogs for Devs](http://www.securityinnovationeurope.com/blog/40-blogs-every-software-developer-should-be-reading)
+
+[Paul Graham](http://www.paulgraham.com/index.html)
 
 ### Architecture/Design
 [OO Design Patterns](http://www.oodesign.com/)
