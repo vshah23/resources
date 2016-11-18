@@ -1,4 +1,4 @@
-### Resources are Seperated out in Different Gist Files
+### resources are seperated out in Different Gist Files
 
 [Android Development](https://gist.github.com/bhavlite/191c978f77369e0b31f923041e164074)
 
