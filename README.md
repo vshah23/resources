@@ -29,3 +29,14 @@
 
 ### Dev Ops Tools
 [Buddy Build](https://buddybuild.com/)
+
+### Problem Solving
+[Big O Cheatsheet](http://bigocheatsheet.com/)
+
+[Programming Tests](https://www.testdome.com/Programming-Tests)
+
+### Web API
+[Programmable Web](http://www.programmableweb.com/)
+
+### Software Dev Blogs
+[40 Blogs for Devs](http://www.securityinnovationeurope.com/blog/40-blogs-every-software-developer-should-be-reading)
