@@ -35,6 +35,12 @@
 
 [Programming Tests](https://www.testdome.com/Programming-Tests)
 
+[CoderByte](https://www.coderbyte.com/challenges/)
+
+[Project Euler](https://projecteuler.net/)
+
+[Topcoder](https://www.topcoder.com/)
+
 ### Web API
 [Programmable Web](http://www.programmableweb.com/)
 
