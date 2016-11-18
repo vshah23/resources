@@ -33,6 +33,8 @@
 ### Problem Solving
 [Big O Cheatsheet](http://bigocheatsheet.com/)
 
+[Algorithm Visualizer](http://algo-visualizer.jasonpark.me/#path=backtracking/knight's_tour/basic)
+
 [Programming Tests](https://www.testdome.com/Programming-Tests)
 
 [CoderByte](https://www.coderbyte.com/challenges/)
@@ -60,4 +62,3 @@
 [Udacity](https://www.udacity.com/)
 
 [FabricIO for Android](https://www.udacity.com/)
-
