@@ -40,3 +40,16 @@
 
 ### Software Dev Blogs
 [40 Blogs for Devs](http://www.securityinnovationeurope.com/blog/40-blogs-every-software-developer-should-be-reading)
+
+### Architecture/Design
+[OO Design Patterns](http://www.oodesign.com/)
+
+### Learning Sources
+[Tutorials Point](https://www.tutorialspoint.com/index.htm)
+
+[Coursera](https://www.coursera.org/)
+
+[Udacity](https://www.udacity.com/)
+
+[FabricIO for Android](https://www.udacity.com/)
+
