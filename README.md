@@ -1,4 +1,4 @@
-### resources are seperated out by technology
+## Resources are seperated out by technology
 
 [Android Development](https://gist.github.com/bhavlite/191c978f77369e0b31f923041e164074)
 
