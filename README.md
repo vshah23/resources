@@ -79,5 +79,5 @@
 
 ### Code Style Guides
 
-[Swift by Vokal](../../wik/Swift-Style-Guide)
-[Objective-C by Vokal](../../wik/Objective-C-Style-Guide)
+[Swift by Vokal](../../wiki/Swift-Style-Guide)
+[Objective-C by Vokal](../../wiki/Objective-C-Style-Guide)
