@@ -77,7 +77,7 @@
 
 [FabricIO for Android](https://www.udacity.com/)
 
-### Code Style Guides
+## Code Style Guides
 
 [Swift by Vokal](../../wiki/Swift-Style-Guide)
 
